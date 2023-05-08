@@ -23,10 +23,9 @@
   align-items: center;
 }
 
-.more-suggestions__icon-image {
+.more-suggestions__image {
   width: 60px;
   height: 60px;
-  background-color: var(--yellow);
   border-radius: 10px;
 
   display: flex;
@@ -34,9 +33,4 @@
   align-items: center;
 
   margin-bottom: 10px;
-}
-
-.more-suggestions__icon-image i {
-  font-size: 32px;
-  color: white;
 }
